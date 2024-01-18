@@ -1,0 +1,12 @@
+.vscode/
+
+node_modules/
+npm-debug.log
+
+.eslintrc.js
+.eslintignore
+.prettierrc
+.gitignore
+
+yarn.lock
+package-lock.json
